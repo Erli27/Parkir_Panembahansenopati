@@ -1,6 +1,6 @@
 # 🏥 Sistem Informasi Manajemen RSUD (Parkir & Manajemen Pengguna)
 
-Proyek berbasis web PHP Native untuk mengelola sistem di lingkungan RSUD, yang mencakup manajemen parkir, pengelolaan pengguna, autentikasi, serta pencatatan aktivitas (log).  mockup ui : https://github.com/Erli27/Parkir_Panembahansenopati/blob/main/Gemini_Generated_Image_9x9fz49x9fz49x9f.jpeg
+Proyek berbasis web PHP Native untuk mengelola sistem di lingkungan RSUD, yang mencakup manajemen parkir, pengelolaan pengguna, autentikasi, serta pencatatan aktivitas (log).  mockup ui : https://erli27.github.io/Parkir_Panembahansenopati/
 
 ---
 
