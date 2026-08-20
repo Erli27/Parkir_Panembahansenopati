@@ -1,6 +1,6 @@
 # 🏥 Sistem Informasi Manajemen RSUD (Parkir & Manajemen Pengguna)
 
-Proyek berbasis web PHP Native untuk mengelola sistem di lingkungan RSUD, yang mencakup manajemen parkir, pengelolaan pengguna, autentikasi, serta pencatatan aktivitas (log).
+Proyek berbasis web PHP Native untuk mengelola sistem di lingkungan RSUD, yang mencakup manajemen parkir, pengelolaan pengguna, autentikasi, serta pencatatan aktivitas (log).  mockup ui : 
 
 ---
 
