@@ -1,7 +1,7 @@
 # 🏥 Sistem Informasi Manajemen RSUD (Parkir & Manajemen Pengguna)
 
 Proyek berbasis web PHP Native untuk mengelola sistem di lingkungan RSUD, yang mencakup manajemen parkir, pengelolaan pengguna, autentikasi, serta pencatatan aktivitas (log). 
-wireframe/mockup ui, ux design (user experirnce), flowchart/userflow & erd & basis data : [https://erli27.github.io/muckupui/](https://erli27.github.io/muckupui/) link project : rsudpanembahan.infinityfree.me
+wireframe/mockup ui, ux design (user experirnce), flowchart/userflow & erd & basis data : [https://erli27.github.io/muckupui/](https://erli27.github.io/muckupui/)  link project : rsudpanembahan.infinityfree.me
 ---
 
 ## 📂 Struktur Direktori & File
